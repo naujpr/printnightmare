@@ -11,6 +11,6 @@
 # vulnerability. For more information, please see: https://blog.truesec.com/2021/06/30/fix-for-printnightmare-cve-2021-1675-exploit-to-keep-your-print-servers-running-while-a-patch-is-not-available/
 # credit: Fabio Viggiani
 
-# allow0system-spooler-driver-directory.ps1
+# allow-system-spooler-driver-directory.ps1
 # This script reverses the one mentioned above in case access needs to be restored.
 # credit: Fabio Viggiani
